@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ld5KznBKuWFBZ/cx46uzskS0WcKQngI+eXLXe7DoiKmei74++xkLRI3OpmfLugSZQvG2KyA0qpT2T+PgoVWG3w==",
+  "dgSpecHash": "AfzuZsJwlUW4RtlDs5Efie2kp1BYLeT/WW1gkdjaMcxw4dZiqLNF5/50cuFmoUPLEqjwbOzuV8N6aHwFLViHMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CheckoutKata1\\CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SupermarketCheckout\\CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
