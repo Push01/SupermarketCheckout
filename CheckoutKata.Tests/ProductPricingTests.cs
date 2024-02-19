@@ -39,7 +39,7 @@ namespace CheckoutKata.Tests
         {
             var pricingRule = CheckoutKataHelper.SetupProductListing();
             var calculatorStrategy = CheckoutKataHelper.SetupCalculatorStrategy();
-            _productPricing = new ProductPricing (pricingRule, calculatorStrategy);
+            _productPricing = new ProductPricing(pricingRule, calculatorStrategy);
         }
     }
 }
