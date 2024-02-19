@@ -100,3 +100,12 @@ C:\Users\Admin\source\repos\CheckoutKata\CheckoutKata.Tests\obj\Debug\net8.0\ref
 C:\Users\Admin\source\repos\CheckoutKata\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.pdb
 C:\Users\Admin\source\repos\CheckoutKata\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.genruntimeconfig.cache
 C:\Users\Admin\source\repos\CheckoutKata\CheckoutKata.Tests\obj\Debug\net8.0\ref\CheckoutKata.Tests.dll
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.sourcelink.json
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.dll
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\refint\CheckoutKata.Tests.dll
+C:\Users\Admin\source\repos\SupermarketCheckout\CheckoutKata.Tests\obj\Debug\net8.0\CheckoutKata.Tests.pdb
